@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Adrian Russell-Falla's CV
 ---
 # Adrian Russell-Falla
